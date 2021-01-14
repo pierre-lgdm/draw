@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T07:35:31.911Z" agent="5.0 (Windows)" etag="AguMh8XBoGOoB9kiYIqo" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T16:02:08.334Z" agent="5.0 (Windows)" etag="ymMaST4eIiPiXCNXI5-H" version="14.1.9" type="github">
   <diagram id="yVYLZHLDrYxaI9shYV6Z" name="Page-2">
-    <mxGraphModel dx="1262" dy="2348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1673" dy="2558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="j26_gaXv2bZdOru8zAmt-0" />
         <mxCell id="j26_gaXv2bZdOru8zAmt-1" parent="j26_gaXv2bZdOru8zAmt-0" />
@@ -116,7 +116,7 @@
           <mxGeometry x="640" y="460" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dAxK6PBBMxgN_20An4am-41" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Caractéristiques Matériau&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Module d&#39;élasticité sécant&lt;/div&gt;&lt;div&gt;Résistance caractéristique en compression&lt;/div&gt;&lt;div&gt;Résistance caractéristique à la traction&lt;br&gt;&lt;/div&gt;&lt;div&gt;Masse volumique&lt;/div&gt;&lt;div&gt;Porosité&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;sketch=1;" parent="j26_gaXv2bZdOru8zAmt-1" vertex="1">
-          <mxGeometry x="1160" y="-350" width="300" height="170" as="geometry" />
+          <mxGeometry x="1130" y="-275" width="300" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
